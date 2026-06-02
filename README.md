@@ -29,7 +29,7 @@ This analysis aims to answer the following questions:
 A full walkthrough of the project, including methodology, analysis, and key insights:
 
 Watch the Demo video below
-![Project Demo](https://i.ibb.co/Xf0p5JPW/Screenshot-2026-04-07-at-1-32-54-PM.png)](./CapstonePjoect1Video.mp4)  
+[![Project Demo](https://i.ibb.co/Xf0p5JPW/Screenshot-2026-04-07-at-1-32-54-PM.png)](./CapstonePjoect1Video.mp4)  
 [Read Presentation](https://pitch.com/v/unemployment-trends-in-canada-a-provincial-and-demographic-analysis-yaj9zj)
 
 ---
